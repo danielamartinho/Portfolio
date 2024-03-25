@@ -1,7 +1,3 @@
-# Data Analyst
+# Daniela's Portfolio
 
-### Education
-
-### Work Experience 
-
-### Projects
+# [Project 1: 
