@@ -1,6 +1,6 @@
 # Daniela's Portfolio
 
-# [Project 1: Biken Sharing Analysis](https://github.com/danielamartinho/Case-Study-Cyclistic-Bike-Sharing-)
+# [Project 1: Bike Sharing Analysis](https://github.com/danielamartinho/Case-Study-Cyclistic-Bike-Sharing-)
 
 ![bike](assets/bike.png) 
 
